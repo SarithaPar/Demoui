@@ -1,0 +1,28 @@
+{
+  "configurations" : [
+    {
+      "id" : "8FE06E0D-C556-491D-9AAB-3A2350D1B16D",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "skippedTests" : [
+        "DemouiUITests",
+        "DemouiUITestsLaunchTests"
+      ],
+      "target" : {
+        "containerPath" : "container:Demoui.xcodeproj",
+        "identifier" : "F979B5B62B82B3E7007E5584",
+        "name" : "DemouiUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

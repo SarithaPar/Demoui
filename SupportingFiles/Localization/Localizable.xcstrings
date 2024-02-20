@@ -1,0 +1,204 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@" : {
+
+    },
+    "animals" : {
+
+    },
+    "Buttons View" : {
+
+    },
+    "Current Temp" : {
+
+    },
+    "Date" : {
+
+    },
+    "Date Picker" : {
+
+    },
+    "Delete" : {
+
+    },
+    "Detail View %lld" : {
+
+    },
+    "DetailView" : {
+
+    },
+    "DropDwon / Picker" : {
+
+    },
+    "Fruits" : {
+
+    },
+    "Hello, World!" : {
+
+    },
+    "List View" : {
+
+    },
+    "Login.LoginButton.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Login Button"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Login button"
+          }
+        }
+      }
+    },
+    "Login.PasswordField.Title" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Password"
+          }
+        }
+      }
+    },
+    "Login.UsernameField.Title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UserName"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UserName"
+          }
+        }
+      }
+    },
+    "Make WebView" : {
+
+    },
+    "Menu" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menu"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menu"
+          }
+        }
+      }
+    },
+    "Other UIElements" : {
+
+    },
+    "Passowrd" : {
+
+    },
+    "PasteButton" : {
+
+    },
+    "Registration" : {
+
+    },
+    "Segment View" : {
+
+    },
+    "Show notification:" : {
+
+    },
+    "Show Notification: " : {
+
+    },
+    "Slider" : {
+
+    },
+    "Stepper View" : {
+
+    },
+    "The connection to the server was lost." : {
+
+    },
+    "The settings page" : {
+
+    },
+    "The temperature is %lld." : {
+
+    },
+    "The time is: %@" : {
+
+    },
+    "Toggle View" : {
+
+    },
+    "Try Again" : {
+
+    },
+    "Unable to Save Workout Data" : {
+
+    },
+    "Value: %lld Color: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Value: %1$lld Color: %2$@"
+          }
+        }
+      }
+    },
+    "Welcome" : {
+
+    },
+    "Welcome to Demo UI App" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Welcome"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome"
+          }
+        }
+      }
+    },
+    "www.google.com" : {
+
+    },
+    "Your choice: " : {
+
+    },
+    "Your choice: %@" : {
+
+    },
+    "Your Choice: %@" : {
+
+    }
+  },
+  "version" : "1.0"
+}
