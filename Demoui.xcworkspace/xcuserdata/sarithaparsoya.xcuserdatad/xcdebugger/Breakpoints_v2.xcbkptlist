@@ -55,65 +55,224 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "82DE8C86-6084-411A-AAB2-986EA59DDCE2"
-            shouldBeEnabled = "Yes"
+            uuid = "97AAF5A2-68FA-43ED-BFEB-697B5A3C626D"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "DemouiUITests/Tests/Functional/WebPageTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "35"
-            endingLineNumber = "35"
-            landmarkName = "testExample()"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "testExample1()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "97AAF5A2-68FA-43ED-BFEB-697B5A3C626D - a229530b5879dce8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemouiUITests.WebPageTests.testExample1() throws -&gt; ()"
+                  moduleName = "DemouiUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarithaparsoya/Documents/Saritha/study/iOSAppProject/Demoui/DemouiUITests/Tests/Functional/WebPageTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "97AAF5A2-68FA-43ED-BFEB-697B5A3C626D - a229530b5879dce8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemouiUITests.WebPageTests.testExample1() throws -&gt; ()"
+                  moduleName = "DemouiUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarithaparsoya/Documents/Saritha/study/iOSAppProject/Demoui/DemouiUITests/Tests/Functional/WebPageTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "308">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38235736-F543-4B80-865D-DE22D054120A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemouiUITests/Tests/DemouiTests/RegistrationPageTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "testRegistrationLink()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "5E9A572C-8C78-424C-85EC-F8EF8E716D9E"
+            uuid = "327BDA58-6973-4976-933B-1DAFB4E79DCD"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "DemouiUITests/Tests/Functional/WebPageTests.swift"
+            filePath = "DemouiUITests/Tests/DemouiTests/WelcomePage.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "28"
-            endingLineNumber = "28"
-            landmarkName = "testWebURL()"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "testDateText()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65B78E82-8376-4FCC-9A6D-39F2AE84F1F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemouiUITests/Tests/DemouiTests/WelcomePageTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "testDateText()"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "5E9A572C-8C78-424C-85EC-F8EF8E716D9E - 55323655b1821670"
+                  uuid = "65B78E82-8376-4FCC-9A6D-39F2AE84F1F7 - 72be541ee22e3eff"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "DemouiUITests.WebPageTests.testExample() throws -&gt; ()"
+                  symbolName = "DemouiUITests.WelcomePageTest.testDateText() throws -&gt; ()"
                   moduleName = "DemouiUITests"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/sarithaparsoya/Documents/Saritha/study/iOSAppProject/Demoui/DemouiUITests/Tests/Functional/WebPageTests.swift"
+                  urlString = "file:///Users/sarithaparsoya/Documents/Saritha/study/iOSAppProject/Demoui/DemouiUITests/Tests/DemouiTests/WelcomePageTest.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "28"
-                  endingLineNumber = "28"
-                  offsetFromSymbolStart = "112">
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "196">
                </Location>
                <Location
-                  uuid = "5E9A572C-8C78-424C-85EC-F8EF8E716D9E - 541a61178a7836b4"
+                  uuid = "65B78E82-8376-4FCC-9A6D-39F2AE84F1F7 - 72be541ee22e3139"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "DemouiUITests.WebPageTests.testWebURL() throws -&gt; ()"
+                  symbolName = "DemouiUITests.WelcomePageTest.testDateText() throws -&gt; ()"
                   moduleName = "DemouiUITests"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/sarithaparsoya/Documents/Saritha/study/iOSAppProject/Demoui/DemouiUITests/Tests/Functional/WebPageTests.swift"
+                  urlString = "file:///Users/sarithaparsoya/Documents/Saritha/study/iOSAppProject/Demoui/DemouiUITests/Tests/DemouiTests/WelcomePageTest.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "28"
-                  endingLineNumber = "28"
-                  offsetFromSymbolStart = "108">
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "65B78E82-8376-4FCC-9A6D-39F2AE84F1F7 - 72be541ee22e3139"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemouiUITests.WelcomePageTest.testDateText() throws -&gt; ()"
+                  moduleName = "DemouiUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarithaparsoya/Documents/Saritha/study/iOSAppProject/Demoui/DemouiUITests/Tests/DemouiTests/WelcomePageTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "208">
                </Location>
             </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA705BE1-A692-472F-A677-2DA3F6251A0F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemouiUITests/Tests/DemouiTests/WelcomePageTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "testDropDownExample()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CA705BE1-A692-472F-A677-2DA3F6251A0F - b9e63470649a7f06"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemouiUITests.WelcomePageTest.testDropDownExample() throws -&gt; ()"
+                  moduleName = "DemouiUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarithaparsoya/Documents/Saritha/study/iOSAppProject/Demoui/DemouiUITests/Tests/DemouiTests/WelcomePageTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "888">
+               </Location>
+               <Location
+                  uuid = "CA705BE1-A692-472F-A677-2DA3F6251A0F - b9e63470649a7f44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemouiUITests.WelcomePageTest.testDropDownExample() throws -&gt; ()"
+                  moduleName = "DemouiUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sarithaparsoya/Documents/Saritha/study/iOSAppProject/Demoui/DemouiUITests/Tests/DemouiTests/WelcomePageTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "996">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBB0A578-9E3A-4328-8419-89D2D4C32F72"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemouiUITests/Tests/DemouiTests/WelcomePageTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "testDropDownExample()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2359345-C9F4-463E-920A-DC3E087792E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemouiUITests/Tests/DemouiTests/WelcomePageTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "testDropDownExample()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

@@ -4,6 +4,12 @@
     "%@" : {
 
     },
+    "%lld" : {
+
+    },
+    "Age Wheel Picker" : {
+
+    },
     "animals" : {
 
     },
@@ -188,6 +194,9 @@
       }
     },
     "www.google.com" : {
+
+    },
+    "Your age" : {
 
     },
     "Your choice: " : {

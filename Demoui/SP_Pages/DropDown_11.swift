@@ -20,8 +20,13 @@ struct DropDown_11: View {
                     Text(self.fruits[$0]).tag($0).foregroundColor(self.colors[$0])
                 }
             }
-            Text("Your choice: ")
-            + Text("\(fruits[selectedItem])").foregroundColor(self.colors[selectedItem])
+            .accessibilityIdentifier("FruitPicker")
+            
+            HStack {
+                Text("Your choice: ")
+                Text("\(fruits[selectedItem])").foregroundColor(self.colors[selectedItem])
+                    .accessibilityIdentifier("FruitSelection")
+            }
         }
     }
 }

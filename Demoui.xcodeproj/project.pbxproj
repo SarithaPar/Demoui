@@ -56,6 +56,10 @@
 		F979B5BE2B82B3E7007E5584 /* DemouiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F979B5BD2B82B3E7007E5584 /* DemouiUITestsLaunchTests.swift */; };
 		F979B5CC2B82B4D1007E5584 /* .swiftlint.yml in Resources */ = {isa = PBXBuildFile; fileRef = F979B5CB2B82B4D1007E5584 /* .swiftlint.yml */; };
 		F98DDF122B8A67BE004FB49F /* WebPageTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98DDF112B8A67BE004FB49F /* WebPageTests.swift */; };
+		F98DDF152B8ACDF6004FB49F /* RegistrationPageTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98DDF142B8ACDF6004FB49F /* RegistrationPageTest.swift */; };
+		F98DDF172B8AEEF4004FB49F /* WelcomePageTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98DDF162B8AEEF4004FB49F /* WelcomePageTest.swift */; };
+		F98DDF192B8AEFBC004FB49F /* WelcomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98DDF182B8AEFBC004FB49F /* WelcomePage.swift */; };
+		F98DDF1B2B8AFE2F004FB49F /* WheelPickerEg.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98DDF1A2B8AFE2F004FB49F /* WheelPickerEg.swift */; };
 		F9B3883C2B894A0E00F2CD5B /* Assertion.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B3883B2B894A0E00F2CD5B /* Assertion.swift */; };
 		F9FDAC742B82B938000F3E86 /* LoginRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9FDAC732B82B938000F3E86 /* LoginRequest.swift */; };
 		F9FDAC762B82B94E000F3E86 /* LoginResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9FDAC752B82B94E000F3E86 /* LoginResponse.swift */; };
@@ -161,6 +165,10 @@
 		F979B5BD2B82B3E7007E5584 /* DemouiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemouiUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		F979B5CB2B82B4D1007E5584 /* .swiftlint.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = .swiftlint.yml; sourceTree = "<group>"; };
 		F98DDF112B8A67BE004FB49F /* WebPageTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebPageTests.swift; sourceTree = "<group>"; };
+		F98DDF142B8ACDF6004FB49F /* RegistrationPageTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationPageTest.swift; sourceTree = "<group>"; };
+		F98DDF162B8AEEF4004FB49F /* WelcomePageTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomePageTest.swift; sourceTree = "<group>"; };
+		F98DDF182B8AEFBC004FB49F /* WelcomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomePage.swift; sourceTree = "<group>"; };
+		F98DDF1A2B8AFE2F004FB49F /* WheelPickerEg.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WheelPickerEg.swift; sourceTree = "<group>"; };
 		F9B3883B2B894A0E00F2CD5B /* Assertion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assertion.swift; sourceTree = "<group>"; };
 		F9FDAC732B82B938000F3E86 /* LoginRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginRequest.swift; sourceTree = "<group>"; };
 		F9FDAC752B82B94E000F3E86 /* LoginResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginResponse.swift; sourceTree = "<group>"; };
@@ -317,6 +325,7 @@
 				F916434B2B8555DD0010A047 /* ButtonsExample.swift */,
 				F916434D2B8556460010A047 /* ListExample.swift */,
 				F916434F2B855E840010A047 /* MapView.swift */,
+				F98DDF1A2B8AFE2F004FB49F /* WheelPickerEg.swift */,
 			);
 			path = SP_Pages;
 			sourceTree = "<group>";
@@ -324,6 +333,7 @@
 		F94DDE652B8471A1001B75A0 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
+				F98DDF132B8ACDD6004FB49F /* DemouiTests */,
 				F91642ED2B8525B10010A047 /* Functional */,
 				F91642EC2B85259A0010A047 /* UIElements */,
 				F94DDE5D2B846804001B75A0 /* LoginTests.swift */,
@@ -444,6 +454,15 @@
 			path = Localization;
 			sourceTree = "<group>";
 		};
+		F98DDF132B8ACDD6004FB49F /* DemouiTests */ = {
+			isa = PBXGroup;
+			children = (
+				F98DDF142B8ACDF6004FB49F /* RegistrationPageTest.swift */,
+				F98DDF162B8AEEF4004FB49F /* WelcomePageTest.swift */,
+			);
+			path = DemouiTests;
+			sourceTree = "<group>";
+		};
 		F9B3883A2B8949F400F2CD5B /* Learning */ = {
 			isa = PBXGroup;
 			children = (
@@ -521,6 +540,7 @@
 				F94DDE612B846F34001B75A0 /* UserRegistration.swift */,
 				F904887C2B849714003EA134 /* ImageView.swift */,
 				F904887E2B8497E1003EA134 /* ScrollToElement.swift */,
+				F98DDF182B8AEFBC004FB49F /* WelcomePage.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -800,6 +820,7 @@
 				F9FDAC762B82B94E000F3E86 /* LoginResponse.swift in Sources */,
 				F91643402B8551FF0010A047 /* StepperView.swift in Sources */,
 				F916434A2B8553C20010A047 /* WebViewExample.swift in Sources */,
+				F98DDF1B2B8AFE2F004FB49F /* WheelPickerEg.swift in Sources */,
 				F9FDAC792B82B977000F3E86 /* LoginViewModel.swift in Sources */,
 				F916433A2B854E470010A047 /* RemoteImage_12.swift in Sources */,
 				F9FDAC972B833386000F3E86 /* AlertView.swift in Sources */,
@@ -844,10 +865,13 @@
 				F904887B2B849193003EA134 /* TextFieldTests.swift in Sources */,
 				F94DDE602B84696E001B75A0 /* LoginPageSteps.swift in Sources */,
 				F91642F12B8531220010A047 /* UIElementsConfig.swift in Sources */,
+				F98DDF152B8ACDF6004FB49F /* RegistrationPageTest.swift in Sources */,
 				F9601EFA2B85A66F0069D43D /* TestrailClass.swift in Sources */,
+				F98DDF192B8AEFBC004FB49F /* WelcomePage.swift in Sources */,
 				F904887F2B8497E1003EA134 /* ScrollToElement.swift in Sources */,
 				F94DDE5E2B846804001B75A0 /* LoginTests.swift in Sources */,
 				F98DDF122B8A67BE004FB49F /* WebPageTests.swift in Sources */,
+				F98DDF172B8AEEF4004FB49F /* WelcomePageTest.swift in Sources */,
 				F9FDAC952B832EF4000F3E86 /* TextField.swift in Sources */,
 				F95E791A2B87F39600ABA1B2 /* MediaPlayerTests.swift in Sources */,
 			);
