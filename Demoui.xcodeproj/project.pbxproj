@@ -41,6 +41,13 @@
 		F94DDE642B846F8B001B75A0 /* DemouiUITestBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94DDE632B846F8B001B75A0 /* DemouiUITestBase.swift */; };
 		F94DDE802B847599001B75A0 /* BaseClassBDD.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94DDE672B84755E001B75A0 /* BaseClassBDD.swift */; };
 		F94DDE812B84759C001B75A0 /* DemouiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94DDE682B84755E001B75A0 /* DemouiUITestsLaunchTests.swift */; };
+		F95E791A2B87F39600ABA1B2 /* MediaPlayerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F95E79192B87F39600ABA1B2 /* MediaPlayerTests.swift */; };
+		F9601EF22B85933C0069D43D /* RetryTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9601EF12B85933C0069D43D /* RetryTest.swift */; };
+		F9601EF42B8594AA0069D43D /* Notes.md in Resources */ = {isa = PBXBuildFile; fileRef = F9601EF32B8594AA0069D43D /* Notes.md */; };
+		F9601EF82B8595EE0069D43D /* Screenshot 2024-02-20 at 6.20.38 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = F9601EF72B8595EE0069D43D /* Screenshot 2024-02-20 at 6.20.38 PM.png */; };
+		F9601EFA2B85A66F0069D43D /* TestrailClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9601EF92B85A66F0069D43D /* TestrailClass.swift */; };
+		F9601EFC2B85A72B0069D43D /* TestData.plist in Resources */ = {isa = PBXBuildFile; fileRef = F9601EFB2B85A72B0069D43D /* TestData.plist */; };
+		F9601EFE2B86540F0069D43D /* ProtocolExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9601EFD2B86540F0069D43D /* ProtocolExample.swift */; };
 		F979B5A12B82B3E5007E5584 /* DemouiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F979B5A02B82B3E5007E5584 /* DemouiApp.swift */; };
 		F979B5A32B82B3E5007E5584 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F979B5A22B82B3E5007E5584 /* ContentView.swift */; };
 		F979B5A52B82B3E7007E5584 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F979B5A42B82B3E7007E5584 /* Assets.xcassets */; };
@@ -48,6 +55,8 @@
 		F979B5BC2B82B3E7007E5584 /* DemouiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F979B5BB2B82B3E7007E5584 /* DemouiUITests.swift */; };
 		F979B5BE2B82B3E7007E5584 /* DemouiUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F979B5BD2B82B3E7007E5584 /* DemouiUITestsLaunchTests.swift */; };
 		F979B5CC2B82B4D1007E5584 /* .swiftlint.yml in Resources */ = {isa = PBXBuildFile; fileRef = F979B5CB2B82B4D1007E5584 /* .swiftlint.yml */; };
+		F98DDF122B8A67BE004FB49F /* WebPageTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98DDF112B8A67BE004FB49F /* WebPageTests.swift */; };
+		F9B3883C2B894A0E00F2CD5B /* Assertion.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B3883B2B894A0E00F2CD5B /* Assertion.swift */; };
 		F9FDAC742B82B938000F3E86 /* LoginRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9FDAC732B82B938000F3E86 /* LoginRequest.swift */; };
 		F9FDAC762B82B94E000F3E86 /* LoginResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9FDAC752B82B94E000F3E86 /* LoginResponse.swift */; };
 		F9FDAC792B82B977000F3E86 /* LoginViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9FDAC782B82B977000F3E86 /* LoginViewModel.swift */; };
@@ -134,6 +143,13 @@
 		F94DDE672B84755E001B75A0 /* BaseClassBDD.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseClassBDD.swift; sourceTree = "<group>"; };
 		F94DDE682B84755E001B75A0 /* DemouiUITestsLaunchTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DemouiUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		F94DDE752B847592001B75A0 /* DemouiUIBDDTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemouiUIBDDTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F95E79192B87F39600ABA1B2 /* MediaPlayerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaPlayerTests.swift; sourceTree = "<group>"; };
+		F9601EF12B85933C0069D43D /* RetryTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RetryTest.swift; sourceTree = "<group>"; };
+		F9601EF32B8594AA0069D43D /* Notes.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Notes.md; sourceTree = "<group>"; };
+		F9601EF72B8595EE0069D43D /* Screenshot 2024-02-20 at 6.20.38 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2024-02-20 at 6.20.38 PM.png"; sourceTree = "<group>"; };
+		F9601EF92B85A66F0069D43D /* TestrailClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestrailClass.swift; sourceTree = "<group>"; };
+		F9601EFB2B85A72B0069D43D /* TestData.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = TestData.plist; sourceTree = "<group>"; };
+		F9601EFD2B86540F0069D43D /* ProtocolExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProtocolExample.swift; sourceTree = "<group>"; };
 		F979B59D2B82B3E5007E5584 /* Demoui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Demoui.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F979B5A02B82B3E5007E5584 /* DemouiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemouiApp.swift; sourceTree = "<group>"; };
 		F979B5A22B82B3E5007E5584 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -144,6 +160,8 @@
 		F979B5BB2B82B3E7007E5584 /* DemouiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemouiUITests.swift; sourceTree = "<group>"; };
 		F979B5BD2B82B3E7007E5584 /* DemouiUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemouiUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		F979B5CB2B82B4D1007E5584 /* .swiftlint.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = .swiftlint.yml; sourceTree = "<group>"; };
+		F98DDF112B8A67BE004FB49F /* WebPageTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebPageTests.swift; sourceTree = "<group>"; };
+		F9B3883B2B894A0E00F2CD5B /* Assertion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assertion.swift; sourceTree = "<group>"; };
 		F9FDAC732B82B938000F3E86 /* LoginRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginRequest.swift; sourceTree = "<group>"; };
 		F9FDAC752B82B94E000F3E86 /* LoginResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginResponse.swift; sourceTree = "<group>"; };
 		F9FDAC782B82B977000F3E86 /* LoginViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewModel.swift; sourceTree = "<group>"; };
@@ -245,8 +263,12 @@
 		F90488822B849A99003EA134 /* BaseClasses */ = {
 			isa = PBXGroup;
 			children = (
+				F979B5BD2B82B3E7007E5584 /* DemouiUITestsLaunchTests.swift */,
 				F94DDE632B846F8B001B75A0 /* DemouiUITestBase.swift */,
 				F90488802B849A8B003EA134 /* FailingTestRetry.swift */,
+				F9601EF12B85933C0069D43D /* RetryTest.swift */,
+				F9601EF92B85A66F0069D43D /* TestrailClass.swift */,
+				F9601EFB2B85A72B0069D43D /* TestData.plist */,
 			);
 			path = BaseClasses;
 			sourceTree = "<group>";
@@ -254,6 +276,7 @@
 		F91642E92B851A710010A047 /* SwiftPrograms */ = {
 			isa = PBXGroup;
 			children = (
+				F9601EFD2B86540F0069D43D /* ProtocolExample.swift */,
 				F91642EA2B851A8A0010A047 /* IterateList.swift */,
 			);
 			path = SwiftPrograms;
@@ -272,6 +295,8 @@
 			isa = PBXGroup;
 			children = (
 				F91642EE2B8525E70010A047 /* Photon.swift */,
+				F95E79192B87F39600ABA1B2 /* MediaPlayerTests.swift */,
+				F98DDF112B8A67BE004FB49F /* WebPageTests.swift */,
 			);
 			path = Functional;
 			sourceTree = "<group>";
@@ -319,9 +344,26 @@
 			path = DemouiUIBDDTests;
 			sourceTree = "<group>";
 		};
+		F9601EF52B8595D90069D43D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F9601EF62B8595E40069D43D /* Images */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		F9601EF62B8595E40069D43D /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				F9601EF72B8595EE0069D43D /* Screenshot 2024-02-20 at 6.20.38 PM.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
 		F979B5942B82B3E5007E5584 = {
 			isa = PBXGroup;
 			children = (
+				F9601EF52B8595D90069D43D /* Resources */,
 				F979B5CB2B82B4D1007E5584 /* .swiftlint.yml */,
 				F979B59F2B82B3E5007E5584 /* Demoui */,
 				F979B5CD2B82B571007E5584 /* SupportingFiles */,
@@ -371,11 +413,12 @@
 		F979B5BA2B82B3E7007E5584 /* DemouiUITests */ = {
 			isa = PBXGroup;
 			children = (
+				F9B3883A2B8949F400F2CD5B /* Learning */,
 				F90488822B849A99003EA134 /* BaseClasses */,
 				F9FDAC9C2B833934000F3E86 /* TestPlans */,
 				F94DDE652B8471A1001B75A0 /* Tests */,
 				F9FDAC932B832EDA000F3E86 /* Utility */,
-				F979B5BD2B82B3E7007E5584 /* DemouiUITestsLaunchTests.swift */,
+				F9601EF32B8594AA0069D43D /* Notes.md */,
 			);
 			path = DemouiUITests;
 			sourceTree = "<group>";
@@ -399,6 +442,14 @@
 				F9FDAC812B82BE6C000F3E86 /* Localizable.xcstrings */,
 			);
 			path = Localization;
+			sourceTree = "<group>";
+		};
+		F9B3883A2B8949F400F2CD5B /* Learning */ = {
+			isa = PBXGroup;
+			children = (
+				F9B3883B2B894A0E00F2CD5B /* Assertion.swift */,
+			);
+			path = Learning;
 			sourceTree = "<group>";
 		};
 		F9FDAC712B82B914000F3E86 /* LoginPage */ = {
@@ -641,6 +692,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F9601EF42B8594AA0069D43D /* Notes.md in Resources */,
+				F9601EF82B8595EE0069D43D /* Screenshot 2024-02-20 at 6.20.38 PM.png in Resources */,
+				F9601EFC2B85A72B0069D43D /* TestData.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -753,6 +807,7 @@
 				F91643382B85479D0010A047 /* DropDown_11.swift in Sources */,
 				F979B5A12B82B3E5007E5584 /* DemouiApp.swift in Sources */,
 				F91642F42B853DA00010A047 /* MyContentView.swift in Sources */,
+				F9601EFE2B86540F0069D43D /* ProtocolExample.swift in Sources */,
 				F91643442B85531C0010A047 /* ToggleView.swift in Sources */,
 				F9FDAC7C2B82B99D000F3E86 /* LoginAction.swift in Sources */,
 				F91642EB2B851A8A0010A047 /* IterateList.swift in Sources */,
@@ -779,17 +834,22 @@
 				F904887D2B849714003EA134 /* ImageView.swift in Sources */,
 				F91642EF2B8525E70010A047 /* Photon.swift in Sources */,
 				F94DDE622B846F34001B75A0 /* UserRegistration.swift in Sources */,
+				F9601EF22B85933C0069D43D /* RetryTest.swift in Sources */,
 				F9FDAC992B833759000F3E86 /* LoginPageUITests.swift in Sources */,
 				F979B5BC2B82B3E7007E5584 /* DemouiUITests.swift in Sources */,
+				F9B3883C2B894A0E00F2CD5B /* Assertion.swift in Sources */,
 				F94DDE642B846F8B001B75A0 /* DemouiUITestBase.swift in Sources */,
 				F90488812B849A8B003EA134 /* FailingTestRetry.swift in Sources */,
 				F979B5BE2B82B3E7007E5584 /* DemouiUITestsLaunchTests.swift in Sources */,
 				F904887B2B849193003EA134 /* TextFieldTests.swift in Sources */,
 				F94DDE602B84696E001B75A0 /* LoginPageSteps.swift in Sources */,
 				F91642F12B8531220010A047 /* UIElementsConfig.swift in Sources */,
+				F9601EFA2B85A66F0069D43D /* TestrailClass.swift in Sources */,
 				F904887F2B8497E1003EA134 /* ScrollToElement.swift in Sources */,
 				F94DDE5E2B846804001B75A0 /* LoginTests.swift in Sources */,
+				F98DDF122B8A67BE004FB49F /* WebPageTests.swift in Sources */,
 				F9FDAC952B832EF4000F3E86 /* TextField.swift in Sources */,
+				F95E791A2B87F39600ABA1B2 /* MediaPlayerTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
