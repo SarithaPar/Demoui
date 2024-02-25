@@ -24,6 +24,7 @@ struct RegistrationPage: View {
             VStack {
                 Text("Welcome")
                 SecureField("Passowrd", text: $password)
+                    .accessibilityIdentifier("SecurePassword")
                 
                 // Date Formatter
                 Text("The time is: \(now, formatter: Self.dateFormatter)")
