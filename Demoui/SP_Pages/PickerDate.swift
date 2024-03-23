@@ -20,17 +20,18 @@ struct PickerDate: View {
             VStack {
                 DatePicker(selection: $selectedDate, displayedComponents: DatePickerComponents.hourAndMinute) {
                     Text("Date")
-                }
+                }.accessibilityIdentifier("TimePicker")
                 
                 DatePicker(selection: $selectedDate, displayedComponents: DatePickerComponents.date) {
                     Text("Date")
-                }
+                }.accessibilityIdentifier("DatePicker")
 
                 DatePicker(selection: $selectedDate,in: Date()...Date().advanced(by: 7*24*3600), displayedComponents: [.date, .hourAndMinute]) {
                     Text("Date")
-                }
+                }.accessibilityIdentifier("DateTimePicker")
 
                 Text("Your Choice: \(selectedDate, formatter: myDateFormatter)")
+                    .accessibilityIdentifier("DateLabel")
             }
         }
 }
