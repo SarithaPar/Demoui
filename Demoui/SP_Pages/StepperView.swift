@@ -35,6 +35,7 @@ struct StepperView: View {
             }
             .padding(5)
             .background(colors[value])
+            .accessibilityIdentifier("ColorStepper")
         }
 }
 

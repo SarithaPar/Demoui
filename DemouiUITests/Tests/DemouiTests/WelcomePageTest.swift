@@ -97,13 +97,10 @@ final class WelcomePageTest: DemouiUITestBase {
         let temp = NSPredicate(format: "Any text CONTAINS[cd] %@", setTemperature)
         
         app.staticTexts["TemperatureText"].label
-        
-        
     }
-    func testStepperView() throws {
-        WelcomePage().goToWelcomePage()
-        app.buttons["stepper"].tap()
-    }
+    
+ 
+    
     func testSegmentView() throws {
         WelcomePage().goToWelcomePage()
         app.buttons["segmentView"].tap()

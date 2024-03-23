@@ -35,6 +35,7 @@
 		F916434C2B8555DD0010A047 /* ButtonsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = F916434B2B8555DD0010A047 /* ButtonsExample.swift */; };
 		F916434E2B8556460010A047 /* ListExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = F916434D2B8556460010A047 /* ListExample.swift */; };
 		F91643502B855E840010A047 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F916434F2B855E840010A047 /* MapView.swift */; };
+		F94DD7D82B913C0C00EDBB57 /* StringMiniProgram.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94DD7D72B913C0C00EDBB57 /* StringMiniProgram.swift */; };
 		F94DDE5E2B846804001B75A0 /* LoginTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94DDE5D2B846804001B75A0 /* LoginTests.swift */; };
 		F94DDE602B84696E001B75A0 /* LoginPageSteps.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94DDE5F2B84696E001B75A0 /* LoginPageSteps.swift */; };
 		F94DDE622B846F34001B75A0 /* UserRegistration.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94DDE612B846F34001B75A0 /* UserRegistration.swift */; };
@@ -48,6 +49,8 @@
 		F9601EFA2B85A66F0069D43D /* TestrailClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9601EF92B85A66F0069D43D /* TestrailClass.swift */; };
 		F9601EFC2B85A72B0069D43D /* TestData.plist in Resources */ = {isa = PBXBuildFile; fileRef = F9601EFB2B85A72B0069D43D /* TestData.plist */; };
 		F9601EFE2B86540F0069D43D /* ProtocolExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9601EFD2B86540F0069D43D /* ProtocolExample.swift */; };
+		F96ED4702B99135A008610FB /* ZStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96ED46F2B99135A008610FB /* ZStackExample.swift */; };
+		F96ED4722B9913C9008610FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F96ED4712B9913C9008610FB /* Assets.xcassets */; };
 		F979B5A12B82B3E5007E5584 /* DemouiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F979B5A02B82B3E5007E5584 /* DemouiApp.swift */; };
 		F979B5A32B82B3E5007E5584 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F979B5A22B82B3E5007E5584 /* ContentView.swift */; };
 		F979B5A52B82B3E7007E5584 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F979B5A42B82B3E7007E5584 /* Assets.xcassets */; };
@@ -61,7 +64,27 @@
 		F98DDF192B8AEFBC004FB49F /* WelcomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98DDF182B8AEFBC004FB49F /* WelcomePage.swift */; };
 		F98DDF1B2B8AFE2F004FB49F /* WheelPickerEg.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98DDF1A2B8AFE2F004FB49F /* WheelPickerEg.swift */; };
 		F98DDF1D2B8B1A33004FB49F /* SwipeAction.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98DDF1C2B8B1A33004FB49F /* SwipeAction.swift */; };
+		F98DDF1F2B8BAC2F004FB49F /* PredicateExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98DDF1E2B8BAC2F004FB49F /* PredicateExample.swift */; };
+		F98DDF212B8BADA7004FB49F /* StepperPageTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98DDF202B8BADA6004FB49F /* StepperPageTest.swift */; };
+		F98DDF232B8C470E004FB49F /* WaitForElements.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98DDF222B8C470E004FB49F /* WaitForElements.swift */; };
+		F98DDF252B8C48D5004FB49F /* TestFailure.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98DDF242B8C48D5004FB49F /* TestFailure.swift */; };
+		F98DDF272B8C4A8D004FB49F /* SpringBoardFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98DDF262B8C4A8D004FB49F /* SpringBoardFile.swift */; };
+		F98DDF292B8C4D00004FB49F /* AssertionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98DDF282B8C4D00004FB49F /* AssertionTests.swift */; };
+		F98DDF2C2B8CE502004FB49F /* CoreDataExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = F98DDF2B2B8CE502004FB49F /* CoreDataExample.swift */; };
+		F98DDF2F2B8CE52D004FB49F /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F98DDF2D2B8CE52D004FB49F /* Model.xcdatamodeld */; };
 		F9B3883C2B894A0E00F2CD5B /* Assertion.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9B3883B2B894A0E00F2CD5B /* Assertion.swift */; };
+		F9D451452B90286A00A8AEA5 /* AccessibillityTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D451442B90286A00A8AEA5 /* AccessibillityTest.swift */; };
+		F9D4514F2B90D65700A8AEA5 /* LoginScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D4514E2B90D65700A8AEA5 /* LoginScreen.swift */; };
+		F9D451512B90D67D00A8AEA5 /* SPExampleBaseClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D451502B90D67D00A8AEA5 /* SPExampleBaseClass.swift */; };
+		F9D451532B90D69C00A8AEA5 /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D451522B90D69C00A8AEA5 /* Common.swift */; };
+		F9D451552B90D6B300A8AEA5 /* XCUIElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D451542B90D6B300A8AEA5 /* XCUIElement.swift */; };
+		F9D451572B90D7B100A8AEA5 /* UserLoginInfo.json in Resources */ = {isa = PBXBuildFile; fileRef = F9D451562B90D7B000A8AEA5 /* UserLoginInfo.json */; };
+		F9D451592B90D7E700A8AEA5 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D451582B90D7E700A8AEA5 /* Utils.swift */; };
+		F9D4515B2B90D88400A8AEA5 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F9D4515A2B90D88400A8AEA5 /* XCTest.framework */; };
+		F9D4515C2B90D88400A8AEA5 /* XCTest.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = F9D4515A2B90D88400A8AEA5 /* XCTest.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		F9D4515F2B90D8E300A8AEA5 /* LoginScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D4515E2B90D8E300A8AEA5 /* LoginScreen.swift */; };
+		F9D451612B90D94200A8AEA5 /* UserAccount.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D451602B90D94200A8AEA5 /* UserAccount.swift */; };
+		F9D451632B90DCC000A8AEA5 /* Utilss.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9D451622B90DCC000A8AEA5 /* Utilss.swift */; };
 		F9FDAC742B82B938000F3E86 /* LoginRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9FDAC732B82B938000F3E86 /* LoginRequest.swift */; };
 		F9FDAC762B82B94E000F3E86 /* LoginResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9FDAC752B82B94E000F3E86 /* LoginResponse.swift */; };
 		F9FDAC792B82B977000F3E86 /* LoginViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9FDAC782B82B977000F3E86 /* LoginViewModel.swift */; };
@@ -105,6 +128,20 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		F9D4515D2B90D88400A8AEA5 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				F9D4515C2B90D88400A8AEA5 /* XCTest.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		3488373B6B0EFC86D3757144 /* Pods_Demoui_DemouiUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Demoui_DemouiUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		472821EBC4370E734D14746F /* Pods-Demoui-DemouiUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Demoui-DemouiUITests.release.xcconfig"; path = "Target Support Files/Pods-Demoui-DemouiUITests/Pods-Demoui-DemouiUITests.release.xcconfig"; sourceTree = "<group>"; };
@@ -141,6 +178,7 @@
 		F916434B2B8555DD0010A047 /* ButtonsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsExample.swift; sourceTree = "<group>"; };
 		F916434D2B8556460010A047 /* ListExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListExample.swift; sourceTree = "<group>"; };
 		F916434F2B855E840010A047 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		F94DD7D72B913C0C00EDBB57 /* StringMiniProgram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringMiniProgram.swift; sourceTree = "<group>"; };
 		F94DDE5D2B846804001B75A0 /* LoginTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginTests.swift; sourceTree = "<group>"; };
 		F94DDE5F2B84696E001B75A0 /* LoginPageSteps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPageSteps.swift; sourceTree = "<group>"; };
 		F94DDE612B846F34001B75A0 /* UserRegistration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserRegistration.swift; sourceTree = "<group>"; };
@@ -155,6 +193,8 @@
 		F9601EF92B85A66F0069D43D /* TestrailClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestrailClass.swift; sourceTree = "<group>"; };
 		F9601EFB2B85A72B0069D43D /* TestData.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = TestData.plist; sourceTree = "<group>"; };
 		F9601EFD2B86540F0069D43D /* ProtocolExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProtocolExample.swift; sourceTree = "<group>"; };
+		F96ED46F2B99135A008610FB /* ZStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStackExample.swift; sourceTree = "<group>"; };
+		F96ED4712B9913C9008610FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F979B59D2B82B3E5007E5584 /* Demoui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Demoui.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F979B5A02B82B3E5007E5584 /* DemouiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemouiApp.swift; sourceTree = "<group>"; };
 		F979B5A22B82B3E5007E5584 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -171,7 +211,26 @@
 		F98DDF182B8AEFBC004FB49F /* WelcomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomePage.swift; sourceTree = "<group>"; };
 		F98DDF1A2B8AFE2F004FB49F /* WheelPickerEg.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WheelPickerEg.swift; sourceTree = "<group>"; };
 		F98DDF1C2B8B1A33004FB49F /* SwipeAction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeAction.swift; sourceTree = "<group>"; };
+		F98DDF1E2B8BAC2F004FB49F /* PredicateExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PredicateExample.swift; sourceTree = "<group>"; };
+		F98DDF202B8BADA6004FB49F /* StepperPageTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperPageTest.swift; sourceTree = "<group>"; };
+		F98DDF222B8C470E004FB49F /* WaitForElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaitForElements.swift; sourceTree = "<group>"; };
+		F98DDF242B8C48D5004FB49F /* TestFailure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestFailure.swift; sourceTree = "<group>"; };
+		F98DDF262B8C4A8D004FB49F /* SpringBoardFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpringBoardFile.swift; sourceTree = "<group>"; };
+		F98DDF282B8C4D00004FB49F /* AssertionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssertionTests.swift; sourceTree = "<group>"; };
+		F98DDF2B2B8CE502004FB49F /* CoreDataExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataExample.swift; sourceTree = "<group>"; };
+		F98DDF2E2B8CE52D004FB49F /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
 		F9B3883B2B894A0E00F2CD5B /* Assertion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assertion.swift; sourceTree = "<group>"; };
+		F9D451442B90286A00A8AEA5 /* AccessibillityTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessibillityTest.swift; sourceTree = "<group>"; };
+		F9D4514E2B90D65700A8AEA5 /* LoginScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreen.swift; sourceTree = "<group>"; };
+		F9D451502B90D67D00A8AEA5 /* SPExampleBaseClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SPExampleBaseClass.swift; sourceTree = "<group>"; };
+		F9D451522B90D69C00A8AEA5 /* Common.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
+		F9D451542B90D6B300A8AEA5 /* XCUIElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCUIElement.swift; sourceTree = "<group>"; };
+		F9D451562B90D7B000A8AEA5 /* UserLoginInfo.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = UserLoginInfo.json; sourceTree = "<group>"; };
+		F9D451582B90D7E700A8AEA5 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
+		F9D4515A2B90D88400A8AEA5 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		F9D4515E2B90D8E300A8AEA5 /* LoginScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreen.swift; sourceTree = "<group>"; };
+		F9D451602B90D94200A8AEA5 /* UserAccount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserAccount.swift; sourceTree = "<group>"; };
+		F9D451622B90DCC000A8AEA5 /* Utilss.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilss.swift; sourceTree = "<group>"; };
 		F9FDAC732B82B938000F3E86 /* LoginRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginRequest.swift; sourceTree = "<group>"; };
 		F9FDAC752B82B94E000F3E86 /* LoginResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginResponse.swift; sourceTree = "<group>"; };
 		F9FDAC782B82B977000F3E86 /* LoginViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewModel.swift; sourceTree = "<group>"; };
@@ -205,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				007DD82366BBCF0F09BC0719 /* Pods_Demoui.framework in Frameworks */,
+				F9D4515B2B90D88400A8AEA5 /* XCTest.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -243,6 +303,7 @@
 		C1152D85CFFFB933562A2BD4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				F9D4515A2B90D88400A8AEA5 /* XCTest.framework */,
 				ADDB785DB6324E95C0E413E7 /* Pods_Demoui.framework */,
 				3488373B6B0EFC86D3757144 /* Pods_Demoui_DemouiUITests.framework */,
 				75830AB9579F6DA8A6662671 /* Pods_DemouiTests.framework */,
@@ -332,6 +393,14 @@
 			path = SP_Pages;
 			sourceTree = "<group>";
 		};
+		F94DD7D62B913BEC00EDBB57 /* SwiftProgramming */ = {
+			isa = PBXGroup;
+			children = (
+				F94DD7D72B913C0C00EDBB57 /* StringMiniProgram.swift */,
+			);
+			path = SwiftProgramming;
+			sourceTree = "<group>";
+		};
 		F94DDE652B8471A1001B75A0 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -372,9 +441,18 @@
 			path = Images;
 			sourceTree = "<group>";
 		};
+		F96ED46E2B991342008610FB /* SwiftUI */ = {
+			isa = PBXGroup;
+			children = (
+				F96ED46F2B99135A008610FB /* ZStackExample.swift */,
+			);
+			path = SwiftUI;
+			sourceTree = "<group>";
+		};
 		F979B5942B82B3E5007E5584 = {
 			isa = PBXGroup;
 			children = (
+				F9D451462B90D5C700A8AEA5 /* SPExampleUITests */,
 				F9601EF52B8595D90069D43D /* Resources */,
 				F979B5CB2B82B4D1007E5584 /* .swiftlint.yml */,
 				F979B59F2B82B3E5007E5584 /* Demoui */,
@@ -401,6 +479,8 @@
 		F979B59F2B82B3E5007E5584 /* Demoui */ = {
 			isa = PBXGroup;
 			children = (
+				F98DDF302B8D1AE8004FB49F /* Video */,
+				F98DDF2A2B8CE4E3004FB49F /* Database */,
 				F91642F22B8538FC0010A047 /* SP_Pages */,
 				F91642E92B851A710010A047 /* SwiftPrograms */,
 				F9FDAC862B82CC07000F3E86 /* RandomUIPage */,
@@ -444,6 +524,7 @@
 				F9FDAC8C2B82CD2F000F3E86 /* Order.swift */,
 				F9FDAC892B82CD21000F3E86 /* Images */,
 				F979B5CE2B82B582007E5584 /* Localization */,
+				F96ED4712B9913C9008610FB /* Assets.xcassets */,
 			);
 			path = SupportingFiles;
 			sourceTree = "<group>";
@@ -461,16 +542,101 @@
 			children = (
 				F98DDF142B8ACDF6004FB49F /* RegistrationPageTest.swift */,
 				F98DDF162B8AEEF4004FB49F /* WelcomePageTest.swift */,
+				F98DDF202B8BADA6004FB49F /* StepperPageTest.swift */,
 			);
 			path = DemouiTests;
+			sourceTree = "<group>";
+		};
+		F98DDF2A2B8CE4E3004FB49F /* Database */ = {
+			isa = PBXGroup;
+			children = (
+				F98DDF2B2B8CE502004FB49F /* CoreDataExample.swift */,
+				F98DDF2D2B8CE52D004FB49F /* Model.xcdatamodeld */,
+			);
+			path = Database;
+			sourceTree = "<group>";
+		};
+		F98DDF302B8D1AE8004FB49F /* Video */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Video;
 			sourceTree = "<group>";
 		};
 		F9B3883A2B8949F400F2CD5B /* Learning */ = {
 			isa = PBXGroup;
 			children = (
+				F94DD7D62B913BEC00EDBB57 /* SwiftProgramming */,
 				F9B3883B2B894A0E00F2CD5B /* Assertion.swift */,
+				F98DDF1E2B8BAC2F004FB49F /* PredicateExample.swift */,
+				F9D451442B90286A00A8AEA5 /* AccessibillityTest.swift */,
 			);
 			path = Learning;
+			sourceTree = "<group>";
+		};
+		F9D451462B90D5C700A8AEA5 /* SPExampleUITests */ = {
+			isa = PBXGroup;
+			children = (
+				F9D4514C2B90D62000A8AEA5 /* Extensions */,
+				F9D4514B2B90D61300A8AEA5 /* Utility */,
+				F9D4514A2B90D60C00A8AEA5 /* TestData */,
+				F9D451492B90D5FA00A8AEA5 /* Screens */,
+				F9D451472B90D5E700A8AEA5 /* Tests */,
+			);
+			path = SPExampleUITests;
+			sourceTree = "<group>";
+		};
+		F9D451472B90D5E700A8AEA5 /* Tests */ = {
+			isa = PBXGroup;
+			children = (
+				F9D4515E2B90D8E300A8AEA5 /* LoginScreen.swift */,
+			);
+			path = Tests;
+			sourceTree = "<group>";
+		};
+		F9D451492B90D5FA00A8AEA5 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				F96ED46E2B991342008610FB /* SwiftUI */,
+				F9D4514D2B90D63500A8AEA5 /* Authentications */,
+				F9D451502B90D67D00A8AEA5 /* SPExampleBaseClass.swift */,
+				F9D451602B90D94200A8AEA5 /* UserAccount.swift */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		F9D4514A2B90D60C00A8AEA5 /* TestData */ = {
+			isa = PBXGroup;
+			children = (
+				F9D451562B90D7B000A8AEA5 /* UserLoginInfo.json */,
+			);
+			path = TestData;
+			sourceTree = "<group>";
+		};
+		F9D4514B2B90D61300A8AEA5 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				F9D451522B90D69C00A8AEA5 /* Common.swift */,
+				F9D451582B90D7E700A8AEA5 /* Utils.swift */,
+				F9D451622B90DCC000A8AEA5 /* Utilss.swift */,
+			);
+			path = Utility;
+			sourceTree = "<group>";
+		};
+		F9D4514C2B90D62000A8AEA5 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				F9D451542B90D6B300A8AEA5 /* XCUIElement.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		F9D4514D2B90D63500A8AEA5 /* Authentications */ = {
+			isa = PBXGroup;
+			children = (
+				F9D4514E2B90D65700A8AEA5 /* LoginScreen.swift */,
+			);
+			path = Authentications;
 			sourceTree = "<group>";
 		};
 		F9FDAC712B82B914000F3E86 /* LoginPage */ = {
@@ -544,6 +710,10 @@
 				F904887E2B8497E1003EA134 /* ScrollToElement.swift */,
 				F98DDF182B8AEFBC004FB49F /* WelcomePage.swift */,
 				F98DDF1C2B8B1A33004FB49F /* SwipeAction.swift */,
+				F98DDF222B8C470E004FB49F /* WaitForElements.swift */,
+				F98DDF242B8C48D5004FB49F /* TestFailure.swift */,
+				F98DDF262B8C4A8D004FB49F /* SpringBoardFile.swift */,
+				F98DDF282B8C4D00004FB49F /* AssertionTests.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -586,6 +756,7 @@
 				F979B5992B82B3E5007E5584 /* Sources */,
 				F979B59A2B82B3E5007E5584 /* Frameworks */,
 				F979B59B2B82B3E5007E5584 /* Resources */,
+				F9D4515D2B90D88400A8AEA5 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -696,10 +867,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				F9FDAC912B82CD2F000F3E86 /* menu.json in Resources */,
+				F9D451572B90D7B100A8AEA5 /* UserLoginInfo.json in Resources */,
 				F9FDAC8A2B82CD22000F3E86 /* Images in Resources */,
 				F979B5CC2B82B4D1007E5584 /* .swiftlint.yml in Resources */,
 				F979B5A82B82B3E7007E5584 /* Preview Assets.xcassets in Resources */,
 				F9FDAC822B82BE6C000F3E86 /* Localizable.xcstrings in Resources */,
+				F96ED4722B9913C9008610FB /* Assets.xcassets in Resources */,
 				F979B5A52B82B3E7007E5584 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -817,6 +990,7 @@
 				F9FDAC882B82CC28000F3E86 /* SwiftUIView.swift in Sources */,
 				F979B5A32B82B3E5007E5584 /* ContentView.swift in Sources */,
 				F91643422B8552D80010A047 /* SegmentView.swift in Sources */,
+				F98DDF2C2B8CE502004FB49F /* CoreDataExample.swift in Sources */,
 				F9FDAC902B82CD2F000F3E86 /* Order.swift in Sources */,
 				F9FDAC8F2B82CD2F000F3E86 /* Menu.swift in Sources */,
 				F91643502B855E840010A047 /* MapView.swift in Sources */,
@@ -831,11 +1005,15 @@
 				F91643382B85479D0010A047 /* DropDown_11.swift in Sources */,
 				F979B5A12B82B3E5007E5584 /* DemouiApp.swift in Sources */,
 				F91642F42B853DA00010A047 /* MyContentView.swift in Sources */,
+				F98DDF2F2B8CE52D004FB49F /* Model.xcdatamodeld in Sources */,
 				F9601EFE2B86540F0069D43D /* ProtocolExample.swift in Sources */,
 				F91643442B85531C0010A047 /* ToggleView.swift in Sources */,
+				F9D451592B90D7E700A8AEA5 /* Utils.swift in Sources */,
 				F9FDAC7C2B82B99D000F3E86 /* LoginAction.swift in Sources */,
 				F91642EB2B851A8A0010A047 /* IterateList.swift in Sources */,
+				F96ED4702B99135A008610FB /* ZStackExample.swift in Sources */,
 				F916434E2B8556460010A047 /* ListExample.swift in Sources */,
+				F9D451632B90DCC000A8AEA5 /* Utilss.swift in Sources */,
 				F916434C2B8555DD0010A047 /* ButtonsExample.swift in Sources */,
 				F9FDAC922B82CD2F000F3E86 /* Helper.swift in Sources */,
 				F91643482B85536E0010A047 /* TabView.swift in Sources */,
@@ -856,28 +1034,42 @@
 			buildActionMask = 2147483647;
 			files = (
 				F904887D2B849714003EA134 /* ImageView.swift in Sources */,
+				F9D451552B90D6B300A8AEA5 /* XCUIElement.swift in Sources */,
 				F91642EF2B8525E70010A047 /* Photon.swift in Sources */,
 				F94DDE622B846F34001B75A0 /* UserRegistration.swift in Sources */,
+				F9D4515F2B90D8E300A8AEA5 /* LoginScreen.swift in Sources */,
+				F98DDF272B8C4A8D004FB49F /* SpringBoardFile.swift in Sources */,
+				F9D451532B90D69C00A8AEA5 /* Common.swift in Sources */,
 				F9601EF22B85933C0069D43D /* RetryTest.swift in Sources */,
 				F9FDAC992B833759000F3E86 /* LoginPageUITests.swift in Sources */,
 				F979B5BC2B82B3E7007E5584 /* DemouiUITests.swift in Sources */,
 				F9B3883C2B894A0E00F2CD5B /* Assertion.swift in Sources */,
 				F94DDE642B846F8B001B75A0 /* DemouiUITestBase.swift in Sources */,
 				F90488812B849A8B003EA134 /* FailingTestRetry.swift in Sources */,
+				F98DDF292B8C4D00004FB49F /* AssertionTests.swift in Sources */,
+				F98DDF212B8BADA7004FB49F /* StepperPageTest.swift in Sources */,
+				F98DDF252B8C48D5004FB49F /* TestFailure.swift in Sources */,
 				F979B5BE2B82B3E7007E5584 /* DemouiUITestsLaunchTests.swift in Sources */,
 				F904887B2B849193003EA134 /* TextFieldTests.swift in Sources */,
 				F94DDE602B84696E001B75A0 /* LoginPageSteps.swift in Sources */,
 				F91642F12B8531220010A047 /* UIElementsConfig.swift in Sources */,
+				F9D451612B90D94200A8AEA5 /* UserAccount.swift in Sources */,
 				F98DDF152B8ACDF6004FB49F /* RegistrationPageTest.swift in Sources */,
+				F98DDF1F2B8BAC2F004FB49F /* PredicateExample.swift in Sources */,
+				F9D451512B90D67D00A8AEA5 /* SPExampleBaseClass.swift in Sources */,
+				F94DD7D82B913C0C00EDBB57 /* StringMiniProgram.swift in Sources */,
 				F9601EFA2B85A66F0069D43D /* TestrailClass.swift in Sources */,
 				F98DDF192B8AEFBC004FB49F /* WelcomePage.swift in Sources */,
 				F904887F2B8497E1003EA134 /* ScrollToElement.swift in Sources */,
+				F98DDF232B8C470E004FB49F /* WaitForElements.swift in Sources */,
 				F94DDE5E2B846804001B75A0 /* LoginTests.swift in Sources */,
 				F98DDF122B8A67BE004FB49F /* WebPageTests.swift in Sources */,
 				F98DDF172B8AEEF4004FB49F /* WelcomePageTest.swift in Sources */,
 				F98DDF1D2B8B1A33004FB49F /* SwipeAction.swift in Sources */,
+				F9D451452B90286A00A8AEA5 /* AccessibillityTest.swift in Sources */,
 				F9FDAC952B832EF4000F3E86 /* TextField.swift in Sources */,
 				F95E791A2B87F39600ABA1B2 /* MediaPlayerTests.swift in Sources */,
+				F9D4514F2B90D65700A8AEA5 /* LoginScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1063,7 +1255,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Demoui/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "Demoui/Preview\\ Content";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -1093,7 +1285,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Demoui/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "Demoui/Preview\\ Content";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -1240,6 +1432,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		F98DDF2D2B8CE52D004FB49F /* Model.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				F98DDF2E2B8CE52D004FB49F /* Model.xcdatamodel */,
+			);
+			currentVersion = F98DDF2E2B8CE52D004FB49F /* Model.xcdatamodel */;
+			path = Model.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = F979B5952B82B3E5007E5584 /* Project object */;
 }

@@ -9,7 +9,10 @@ import Foundation
 import XCTest
 
 class Assertion: XCTest {
-    func test() {
+   
+    func testa() {
+        let textsp = XCUIApplication().staticTexts["identifier"].firstMatch
         
+        let a = XCUIApplication().children(matching: .staticText)
     }
 }

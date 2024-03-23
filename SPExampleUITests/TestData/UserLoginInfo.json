@@ -1,0 +1,16 @@
+[
+   {
+      "id":1,
+      "username":"user1",
+      "password":"password",
+      "accountName":"automation",
+      "points":12
+   },
+   {
+      "id":2,
+      "username":"user2",
+      "password":"password",
+      "accountName":"swift",
+      "points":8
+   }
+]

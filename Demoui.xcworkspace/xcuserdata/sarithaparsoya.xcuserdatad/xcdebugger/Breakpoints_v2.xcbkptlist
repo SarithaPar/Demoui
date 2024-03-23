@@ -55,64 +55,65 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "2EBE58C5-ECD1-4A6E-B68F-932B961C6E2E"
+            uuid = "A4F158BD-3EFB-4D5D-8A46-81566786445B"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "DemouiUITests/Tests/DemouiTests/WelcomePageTest.swift"
+            filePath = "DemouiUITests/Tests/DemouiTests/RegistrationPageTest.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "89"
-            endingLineNumber = "89"
-            landmarkName = "testSlider()"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "testRegistrationLink()"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "2EBE58C5-ECD1-4A6E-B68F-932B961C6E2E - f6f8eab3c6233dd"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "DemouiUITests.WelcomePageTest.testStepperView() throws -&gt; ()"
-                  moduleName = "DemouiUITests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/sarithaparsoya/Documents/Saritha/study/iOSAppProject/Demoui/DemouiUITests/Tests/DemouiTests/WelcomePageTest.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "89"
-                  endingLineNumber = "89"
-                  offsetFromSymbolStart = "292">
-               </Location>
-               <Location
-                  uuid = "2EBE58C5-ECD1-4A6E-B68F-932B961C6E2E - 607dbcef7891f3fd"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "DemouiUITests.WelcomePageTest.testSlider() throws -&gt; ()"
-                  moduleName = "DemouiUITests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/sarithaparsoya/Documents/Saritha/study/iOSAppProject/Demoui/DemouiUITests/Tests/DemouiTests/WelcomePageTest.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "89"
-                  endingLineNumber = "89"
-                  offsetFromSymbolStart = "120">
-               </Location>
-               <Location
-                  uuid = "2EBE58C5-ECD1-4A6E-B68F-932B961C6E2E - 607dbcef7891f3fd"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "DemouiUITests.WelcomePageTest.testSlider() throws -&gt; ()"
-                  moduleName = "DemouiUITests"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/sarithaparsoya/Documents/Saritha/study/iOSAppProject/Demoui/DemouiUITests/Tests/DemouiTests/WelcomePageTest.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "89"
-                  endingLineNumber = "89"
-                  offsetFromSymbolStart = "152">
-               </Location>
-            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "698EE57C-9467-423D-A981-DE30452C05C1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemouiUITests/Tests/DemouiTests/StepperPageTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "testStepperView_Decrement()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8714AAD-B900-49C0-A730-9D4D638F473A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemouiUITests/Tests/DemouiTests/StepperPageTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "testStepperView_IncrementLoop()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71B14D0A-50EB-457D-92A9-D1E60BB53AE8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemouiUITests/Learning/AccessibillityTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "testExample()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

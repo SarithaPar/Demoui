@@ -11,5 +11,9 @@ test
 
 Setup Retry-on-failure on XCode
 
-/Users/sarithaparsoya/Desktop/Screenshot 2024-02-20 at 6.21.37 PM.png
+//Users/sarithaparsoya/Desktop/Screenshot 2024-02-20 at 6.21.37 PM.png
+
+XCTIssue: Swift object to represent a test failure. 
+- do Test reporting
+- Do investigation
 
