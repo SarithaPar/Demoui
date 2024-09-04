@@ -17,10 +17,6 @@ class DemouiUITestBase: XCTestCase {
         app.launch()
     }
     
-    override func setUpWithError() throws {
-        super.setUp()
-    }
-    
     override func tearDown() {
         super.tearDown()
         app.terminate()

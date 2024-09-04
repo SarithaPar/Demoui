@@ -58,6 +58,8 @@ final class PredicateExample: DemouiUITestBase {
     
     func testPredicateEg2() {
         
+        
+        
         // 1. Predicate where label is equal to a string
         app.staticTexts.containing(NSPredicate(format: "label == 'Registration'"))
         
