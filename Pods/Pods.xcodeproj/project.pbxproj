@@ -7,57 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0837AE3C2E25F8503A581B1D2A1D4C28 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		7397673407545142A009263D8D569EF3 /* Pods-Demoui-DemouiUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3994DDFF5BDA99856BF78C6363374455 /* Pods-Demoui-DemouiUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		7866696AB812D8F610FE946F8288CFF7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		8808DFAC1C807409E3F4C6B5F2030415 /* Pods-DemouiTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 63E53ECB7CE05F2C4D46595C7FE1730E /* Pods-DemouiTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		8834C75B9C5D71838EDA9A08D72D0428 /* Pods-DemouiTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F773EFF92EF89D74334F9CCD5D670146 /* Pods-DemouiTests-dummy.m */; };
-		9A5A845F13FD0BD9C251076AF599D33F /* Pods-Demoui-DemouiUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 985C71EFFB044C18849984DA70092F78 /* Pods-Demoui-DemouiUITests-dummy.m */; };
 		D496C117DB0A2E29179CB7AC32CF3312 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		E3E49DBB17B0D338E38ED8099B808C59 /* Pods-Demoui-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C78549B28BA527D44DDC7382987DCF36 /* Pods-Demoui-dummy.m */; };
-		F52415AF59CB8BDF4CB97C6494AE63B1 /* Pods-Demoui-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 41668FAF4E5BAE2081614A510429E4FB /* Pods-Demoui-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E3E49DBB17B0D338E38ED8099B808C59 /* Pods-Demoui-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AE110A21AB8F4D3CEBF9D0250235226D /* Pods-Demoui-dummy.m */; };
+		F52415AF59CB8BDF4CB97C6494AE63B1 /* Pods-Demoui-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2669910EA129EBB377F1A2EA7C43E956 /* Pods-Demoui-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		02F51EF7EAEC6F04E388B5E33EAA8513 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 02A1BB9425DD1F9761D6840FCBBC21DC;
-			remoteInfo = "Pods-Demoui";
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
-		086191AF4A7F906F68AB3E99933BB1E4 /* Pods-Demoui.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Demoui.release.xcconfig"; sourceTree = "<group>"; };
-		0A8F248E7567CECE18393EFC89C18A78 /* Pods-DemouiTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DemouiTests-Info.plist"; sourceTree = "<group>"; };
-		21CD649FC40E1EB7E2B773CC2A12CB09 /* Pods-DemouiTests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-DemouiTests"; path = Pods_DemouiTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2DD3CBF00DEF8100A23A19B09FF6F2D8 /* Pods-Demoui-DemouiUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Demoui-DemouiUITests.modulemap"; sourceTree = "<group>"; };
-		3994DDFF5BDA99856BF78C6363374455 /* Pods-Demoui-DemouiUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Demoui-DemouiUITests-umbrella.h"; sourceTree = "<group>"; };
-		3EA6F4DED031F4DDC01CC4601B205AB8 /* Pods-Demoui-DemouiUITests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-Demoui-DemouiUITests"; path = Pods_Demoui_DemouiUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		41668FAF4E5BAE2081614A510429E4FB /* Pods-Demoui-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Demoui-umbrella.h"; sourceTree = "<group>"; };
+		1009E6223C5D33A3FFE12BD0241F3784 /* Pods-Demoui-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Demoui-acknowledgements.markdown"; sourceTree = "<group>"; };
+		2669910EA129EBB377F1A2EA7C43E956 /* Pods-Demoui-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Demoui-umbrella.h"; sourceTree = "<group>"; };
+		3B0E0649D5641285CA0E2146BE382B61 /* Pods-Demoui.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Demoui.modulemap"; sourceTree = "<group>"; };
+		3D1077F296F9D7E307EE58112C164A28 /* Pods-Demoui-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Demoui-Info.plist"; sourceTree = "<group>"; };
 		4F105C1B3AACF74AF65A68F3DA69C28D /* Pods-Demoui */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-Demoui"; path = Pods_Demoui.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5573BC4778D358714F59A06C7E3C5D6E /* Pods-Demoui.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Demoui.modulemap"; sourceTree = "<group>"; };
-		5EF862304BED688A0098358792FDB213 /* Pods-DemouiTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DemouiTests.release.xcconfig"; sourceTree = "<group>"; };
-		63E53ECB7CE05F2C4D46595C7FE1730E /* Pods-DemouiTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DemouiTests-umbrella.h"; sourceTree = "<group>"; };
-		6844655E7B6458B01BB69A8A00F92BC0 /* Pods-Demoui-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Demoui-acknowledgements.plist"; sourceTree = "<group>"; };
-		6BEB0481B742FF5B583A51D6A7A9252A /* Pods-DemouiTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DemouiTests.debug.xcconfig"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		8B1E4D2E4694674ED5269BE21C9EA4C8 /* Pods-DemouiTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DemouiTests-acknowledgements.plist"; sourceTree = "<group>"; };
-		8C858C106488FAD91F875A339502185C /* Pods-Demoui.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Demoui.debug.xcconfig"; sourceTree = "<group>"; };
-		923FB86081BB506A22AF5B761EF2BF95 /* Pods-Demoui-DemouiUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Demoui-DemouiUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		985C71EFFB044C18849984DA70092F78 /* Pods-Demoui-DemouiUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Demoui-DemouiUITests-dummy.m"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		B43AFD8EFE6EE2F0B1D8F6CC7F0E0C7C /* Pods-Demoui-DemouiUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Demoui-DemouiUITests.release.xcconfig"; sourceTree = "<group>"; };
-		B7B1B8336650D66847DF04D546189D54 /* Pods-Demoui-DemouiUITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Demoui-DemouiUITests-Info.plist"; sourceTree = "<group>"; };
-		C466CAB11D67D36F34C07829043626F6 /* Pods-DemouiTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-DemouiTests.modulemap"; sourceTree = "<group>"; };
-		C754ABC8FDCE9A02410EADC46B3FCC6E /* Pods-Demoui-DemouiUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Demoui-DemouiUITests-acknowledgements.plist"; sourceTree = "<group>"; };
-		C7653A7864B45E3472A221C65454916C /* Pods-DemouiTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DemouiTests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		C78549B28BA527D44DDC7382987DCF36 /* Pods-Demoui-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Demoui-dummy.m"; sourceTree = "<group>"; };
-		D2F788E9D822B7BF7DB9312903BEFEF5 /* Pods-Demoui-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Demoui-Info.plist"; sourceTree = "<group>"; };
-		F773EFF92EF89D74334F9CCD5D670146 /* Pods-DemouiTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DemouiTests-dummy.m"; sourceTree = "<group>"; };
-		F8FC33B4D0B5F42108ACE5A1D743506A /* Pods-Demoui-DemouiUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Demoui-DemouiUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		FD298916F5877EE54FAAAEFFD194F126 /* Pods-Demoui-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Demoui-acknowledgements.markdown"; sourceTree = "<group>"; };
+		9ECF5179481DD14F40E509C9CB611287 /* Pods-Demoui.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Demoui.release.xcconfig"; sourceTree = "<group>"; };
+		AD3158778CF890B76E9770C48A4B99FB /* Pods-Demoui.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Demoui.debug.xcconfig"; sourceTree = "<group>"; };
+		AE110A21AB8F4D3CEBF9D0250235226D /* Pods-Demoui-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Demoui-dummy.m"; sourceTree = "<group>"; };
+		B316A51D9498A4593CAF28C24FD9CA00 /* Pods-Demoui-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Demoui-acknowledgements.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,49 +35,31 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6343834199B7C1FB17BECE03E90F61C6 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				7866696AB812D8F610FE946F8288CFF7 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		797DD25EBBEA61785A17FB18864F4FD1 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				0837AE3C2E25F8503A581B1D2A1D4C28 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1EFBC1F9B9551BDA8F354A2F2077DEF2 /* Pods-DemouiTests */ = {
+		0F09260F78CFFA7475624E1927C517B3 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				C466CAB11D67D36F34C07829043626F6 /* Pods-DemouiTests.modulemap */,
-				C7653A7864B45E3472A221C65454916C /* Pods-DemouiTests-acknowledgements.markdown */,
-				8B1E4D2E4694674ED5269BE21C9EA4C8 /* Pods-DemouiTests-acknowledgements.plist */,
-				F773EFF92EF89D74334F9CCD5D670146 /* Pods-DemouiTests-dummy.m */,
-				0A8F248E7567CECE18393EFC89C18A78 /* Pods-DemouiTests-Info.plist */,
-				63E53ECB7CE05F2C4D46595C7FE1730E /* Pods-DemouiTests-umbrella.h */,
-				6BEB0481B742FF5B583A51D6A7A9252A /* Pods-DemouiTests.debug.xcconfig */,
-				5EF862304BED688A0098358792FDB213 /* Pods-DemouiTests.release.xcconfig */,
-			);
-			name = "Pods-DemouiTests";
-			path = "Target Support Files/Pods-DemouiTests";
-			sourceTree = "<group>";
-		};
-		48E27C8125A808FF84AE23A94E9E24C0 /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				903EB68170B82B33C93382B16BA92B48 /* Pods-Demoui */,
-				ECF9EE606A074E7F30AAF1A805D9F650 /* Pods-Demoui-DemouiUITests */,
-				1EFBC1F9B9551BDA8F354A2F2077DEF2 /* Pods-DemouiTests */,
+				4989F5EE3C35175E43B0D90A7E6BCB4E /* Pods-Demoui */,
 			);
 			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		4989F5EE3C35175E43B0D90A7E6BCB4E /* Pods-Demoui */ = {
+			isa = PBXGroup;
+			children = (
+				3B0E0649D5641285CA0E2146BE382B61 /* Pods-Demoui.modulemap */,
+				1009E6223C5D33A3FFE12BD0241F3784 /* Pods-Demoui-acknowledgements.markdown */,
+				B316A51D9498A4593CAF28C24FD9CA00 /* Pods-Demoui-acknowledgements.plist */,
+				AE110A21AB8F4D3CEBF9D0250235226D /* Pods-Demoui-dummy.m */,
+				3D1077F296F9D7E307EE58112C164A28 /* Pods-Demoui-Info.plist */,
+				2669910EA129EBB377F1A2EA7C43E956 /* Pods-Demoui-umbrella.h */,
+				AD3158778CF890B76E9770C48A4B99FB /* Pods-Demoui.debug.xcconfig */,
+				9ECF5179481DD14F40E509C9CB611287 /* Pods-Demoui.release.xcconfig */,
+			);
+			name = "Pods-Demoui";
+			path = "Target Support Files/Pods-Demoui";
 			sourceTree = "<group>";
 		};
 		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
@@ -122,30 +70,12 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		6129A1854092EAF9DF54ED54AFC3EE4F /* Products */ = {
+		5FE9C070A98DCC62244946147A28879E /* Products */ = {
 			isa = PBXGroup;
 			children = (
 				4F105C1B3AACF74AF65A68F3DA69C28D /* Pods-Demoui */,
-				3EA6F4DED031F4DDC01CC4601B205AB8 /* Pods-Demoui-DemouiUITests */,
-				21CD649FC40E1EB7E2B773CC2A12CB09 /* Pods-DemouiTests */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		903EB68170B82B33C93382B16BA92B48 /* Pods-Demoui */ = {
-			isa = PBXGroup;
-			children = (
-				5573BC4778D358714F59A06C7E3C5D6E /* Pods-Demoui.modulemap */,
-				FD298916F5877EE54FAAAEFFD194F126 /* Pods-Demoui-acknowledgements.markdown */,
-				6844655E7B6458B01BB69A8A00F92BC0 /* Pods-Demoui-acknowledgements.plist */,
-				C78549B28BA527D44DDC7382987DCF36 /* Pods-Demoui-dummy.m */,
-				D2F788E9D822B7BF7DB9312903BEFEF5 /* Pods-Demoui-Info.plist */,
-				41668FAF4E5BAE2081614A510429E4FB /* Pods-Demoui-umbrella.h */,
-				8C858C106488FAD91F875A339502185C /* Pods-Demoui.debug.xcconfig */,
-				086191AF4A7F906F68AB3E99933BB1E4 /* Pods-Demoui.release.xcconfig */,
-			);
-			name = "Pods-Demoui";
-			path = "Target Support Files/Pods-Demoui";
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
@@ -153,8 +83,8 @@
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
-				6129A1854092EAF9DF54ED54AFC3EE4F /* Products */,
-				48E27C8125A808FF84AE23A94E9E24C0 /* Targets Support Files */,
+				5FE9C070A98DCC62244946147A28879E /* Products */,
+				0F09260F78CFFA7475624E1927C517B3 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
@@ -166,22 +96,6 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		ECF9EE606A074E7F30AAF1A805D9F650 /* Pods-Demoui-DemouiUITests */ = {
-			isa = PBXGroup;
-			children = (
-				2DD3CBF00DEF8100A23A19B09FF6F2D8 /* Pods-Demoui-DemouiUITests.modulemap */,
-				F8FC33B4D0B5F42108ACE5A1D743506A /* Pods-Demoui-DemouiUITests-acknowledgements.markdown */,
-				C754ABC8FDCE9A02410EADC46B3FCC6E /* Pods-Demoui-DemouiUITests-acknowledgements.plist */,
-				985C71EFFB044C18849984DA70092F78 /* Pods-Demoui-DemouiUITests-dummy.m */,
-				B7B1B8336650D66847DF04D546189D54 /* Pods-Demoui-DemouiUITests-Info.plist */,
-				3994DDFF5BDA99856BF78C6363374455 /* Pods-Demoui-DemouiUITests-umbrella.h */,
-				923FB86081BB506A22AF5B761EF2BF95 /* Pods-Demoui-DemouiUITests.debug.xcconfig */,
-				B43AFD8EFE6EE2F0B1D8F6CC7F0E0C7C /* Pods-Demoui-DemouiUITests.release.xcconfig */,
-			);
-			name = "Pods-Demoui-DemouiUITests";
-			path = "Target Support Files/Pods-Demoui-DemouiUITests";
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
@@ -190,22 +104,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				F52415AF59CB8BDF4CB97C6494AE63B1 /* Pods-Demoui-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		F62F8A677A59E93BE51B69A89B6C3CC2 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				7397673407545142A009263D8D569EF3 /* Pods-Demoui-DemouiUITests-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		FD0D0D4461ACA902C43DB6D2A4DEE6D6 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8808DFAC1C807409E3F4C6B5F2030415 /* Pods-DemouiTests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -230,43 +128,6 @@
 			productReference = 4F105C1B3AACF74AF65A68F3DA69C28D /* Pods-Demoui */;
 			productType = "com.apple.product-type.framework";
 		};
-		A92F3D986930B31722C97EAAEE67A00C /* Pods-DemouiTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 0918B3ABEF3A691A9592313E8F776F6E /* Build configuration list for PBXNativeTarget "Pods-DemouiTests" */;
-			buildPhases = (
-				FD0D0D4461ACA902C43DB6D2A4DEE6D6 /* Headers */,
-				86533E6613626188692492596550245D /* Sources */,
-				797DD25EBBEA61785A17FB18864F4FD1 /* Frameworks */,
-				4FE871F19A7F07631423C9D2AED6F3D9 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				AF5B3032B253F87061221E1F08468AD0 /* PBXTargetDependency */,
-			);
-			name = "Pods-DemouiTests";
-			productName = Pods_DemouiTests;
-			productReference = 21CD649FC40E1EB7E2B773CC2A12CB09 /* Pods-DemouiTests */;
-			productType = "com.apple.product-type.framework";
-		};
-		ADC4040512171A78AB251E847EB5D457 /* Pods-Demoui-DemouiUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 29A4AE9EDD7A3D8049D72D0F6E351980 /* Build configuration list for PBXNativeTarget "Pods-Demoui-DemouiUITests" */;
-			buildPhases = (
-				F62F8A677A59E93BE51B69A89B6C3CC2 /* Headers */,
-				5388861E626FBD6B54AD08FFB8B625BC /* Sources */,
-				6343834199B7C1FB17BECE03E90F61C6 /* Frameworks */,
-				4B40945DCA96D7D4ECD83D611A41394E /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "Pods-Demoui-DemouiUITests";
-			productName = Pods_Demoui_DemouiUITests;
-			productReference = 3EA6F4DED031F4DDC01CC4601B205AB8 /* Pods-Demoui-DemouiUITests */;
-			productType = "com.apple.product-type.framework";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -285,32 +146,16 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = 6129A1854092EAF9DF54ED54AFC3EE4F /* Products */;
+			productRefGroup = 5FE9C070A98DCC62244946147A28879E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				02A1BB9425DD1F9761D6840FCBBC21DC /* Pods-Demoui */,
-				ADC4040512171A78AB251E847EB5D457 /* Pods-Demoui-DemouiUITests */,
-				A92F3D986930B31722C97EAAEE67A00C /* Pods-DemouiTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4B40945DCA96D7D4ECD83D611A41394E /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		4FE871F19A7F07631423C9D2AED6F3D9 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		9B20A6529D89E01E622ADD8AD009CF17 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -321,22 +166,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		5388861E626FBD6B54AD08FFB8B625BC /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				9A5A845F13FD0BD9C251076AF599D33F /* Pods-Demoui-DemouiUITests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		86533E6613626188692492596550245D /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				8834C75B9C5D71838EDA9A08D72D0428 /* Pods-DemouiTests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		DA1EF2B59A7E2C547228B03E12CDCAD5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -346,15 +175,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		AF5B3032B253F87061221E1F08468AD0 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-Demoui";
-			target = 02A1BB9425DD1F9761D6840FCBBC21DC /* Pods-Demoui */;
-			targetProxy = 02F51EF7EAEC6F04E388B5E33EAA8513 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		30E0B9EFD9A5C45D0D351231E81B30B3 /* Release */ = {
@@ -419,85 +239,9 @@
 			};
 			name = Release;
 		};
-		5B147A9BB6DC8021DCEC45B027FBD884 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5EF862304BED688A0098358792FDB213 /* Pods-DemouiTests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-DemouiTests/Pods-DemouiTests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-DemouiTests/Pods-DemouiTests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		62A33D4625CD1F0CCEE3488FD34FA568 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = B43AFD8EFE6EE2F0B1D8F6CC7F0E0C7C /* Pods-Demoui-DemouiUITests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-Demoui-DemouiUITests/Pods-Demoui-DemouiUITests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Demoui-DemouiUITests/Pods-Demoui-DemouiUITests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		B7BB414064EB3B34DAE88F845895FA65 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 086191AF4A7F906F68AB3E99933BB1E4 /* Pods-Demoui.release.xcconfig */;
+			baseConfigurationReference = 9ECF5179481DD14F40E509C9CB611287 /* Pods-Demoui.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -535,7 +279,7 @@
 		};
 		C4ECD41B8E1ACF6CBB943E1ECD409F40 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8C858C106488FAD91F875A339502185C /* Pods-Demoui.debug.xcconfig */;
+			baseConfigurationReference = AD3158778CF890B76E9770C48A4B99FB /* Pods-Demoui.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -557,43 +301,6 @@
 				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-Demoui/Pods-Demoui.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		EF72BE07260FFAA0A1101E7BFEC8FA99 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6BEB0481B742FF5B583A51D6A7A9252A /* Pods-DemouiTests.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-DemouiTests/Pods-DemouiTests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-DemouiTests/Pods-DemouiTests.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -673,64 +380,9 @@
 			};
 			name = Debug;
 		};
-		F8C7A0F85039F2B06C8194F79007C97E /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 923FB86081BB506A22AF5B761EF2BF95 /* Pods-Demoui-DemouiUITests.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-Demoui-DemouiUITests/Pods-Demoui-DemouiUITests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Demoui-DemouiUITests/Pods-Demoui-DemouiUITests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0918B3ABEF3A691A9592313E8F776F6E /* Build configuration list for PBXNativeTarget "Pods-DemouiTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				EF72BE07260FFAA0A1101E7BFEC8FA99 /* Debug */,
-				5B147A9BB6DC8021DCEC45B027FBD884 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		29A4AE9EDD7A3D8049D72D0F6E351980 /* Build configuration list for PBXNativeTarget "Pods-Demoui-DemouiUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				F8C7A0F85039F2B06C8194F79007C97E /* Debug */,
-				62A33D4625CD1F0CCEE3488FD34FA568 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		31ED924013E545FC5ABCBB4BC8947743 /* Build configuration list for PBXNativeTarget "Pods-Demoui" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
