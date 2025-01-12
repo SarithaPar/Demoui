@@ -1,6 +1,0 @@
-framework module Pods_Demoui {
-  umbrella header "Pods-Demoui-umbrella.h"
-
-  export *
-  module * { export * }
-}

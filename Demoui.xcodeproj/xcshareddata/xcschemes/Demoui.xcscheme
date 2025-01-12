@@ -20,6 +20,76 @@
                ReferencedContainer = "container:Demoui.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F979B5AC2B82B3E7007E5584"
+               BuildableName = "DemouiTests.xctest"
+               BlueprintName = "DemouiTests"
+               ReferencedContainer = "container:Demoui.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F979B5B62B82B3E7007E5584"
+               BuildableName = "DemouiUITests.xctest"
+               BlueprintName = "DemouiUITests"
+               ReferencedContainer = "container:Demoui.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "NO"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F91B61592B833D3900472AEE"
+               BuildableName = "DemouiUITests_SP.xctest"
+               BlueprintName = "DemouiUITests_SP"
+               ReferencedContainer = "container:Demoui.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "NO"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F91B61682B833D8000472AEE"
+               BuildableName = "DemouiTests_SP.xctest"
+               BlueprintName = "DemouiTests_SP"
+               ReferencedContainer = "container:Demoui.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "NO"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "F94DDE742B847592001B75A0"
+               BuildableName = "DemouiUIBDDTests.xctest"
+               BlueprintName = "DemouiUIBDDTests"
+               ReferencedContainer = "container:Demoui.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
@@ -36,63 +106,6 @@
             reference = "container:DemouiUITests/TestPlans/CompeteUITestPlan.xctestplan">
          </TestPlanReference>
       </TestPlans>
-      <Testables>
-         <TestableReference
-            skipped = "NO"
-            parallelizable = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F979B5AC2B82B3E7007E5584"
-               BuildableName = "DemouiTests.xctest"
-               BlueprintName = "DemouiTests"
-               ReferencedContainer = "container:Demoui.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO"
-            parallelizable = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F979B5B62B82B3E7007E5584"
-               BuildableName = "DemouiUITests.xctest"
-               BlueprintName = "DemouiUITests"
-               ReferencedContainer = "container:Demoui.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO"
-            parallelizable = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F91B61592B833D3900472AEE"
-               BuildableName = "DemouiUITests_SP.xctest"
-               BlueprintName = "DemouiUITests_SP"
-               ReferencedContainer = "container:Demoui.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO"
-            parallelizable = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F91B61682B833D8000472AEE"
-               BuildableName = "DemouiTests_SP.xctest"
-               BlueprintName = "DemouiTests_SP"
-               ReferencedContainer = "container:Demoui.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO"
-            parallelizable = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F94DDE742B847592001B75A0"
-               BuildableName = "DemouiUIBDDTests.xctest"
-               BlueprintName = "DemouiUIBDDTests"
-               ReferencedContainer = "container:Demoui.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-      </Testables>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
