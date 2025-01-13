@@ -14,6 +14,28 @@ final class PredicateExample: DemouiUITestBase {
         app.launch()
         continueAfterFailure = false
     }
+    func testPredicateEg2() {
+        
+        // 1. Predicate where label is equal to a string
+        app.staticTexts.containing(NSPredicate(format: "label == 'Registration'"))
+        
+        // 2. Predicate where label comtains a string
+        app.staticTexts.containing(NSPredicate(format: "label CONTAINS 'Regis'"))
+        
+        // 3. Predicate where label contains string which is case-insensitive
+        app.staticTexts.containing(NSPredicate(format: "label CONTAINS[c] 'Registra'"))
+        
+        
+        // 4. Predicate where label matches a Regex
+        app.staticTexts.containing(NSPredicate(format: "SELF MATCHES %@", "[A-Z0-9a-z]"))
+        
+        // 5. Predicate where label begins a specific substring
+        app.staticTexts.containing(NSPredicate(format: "label BEGINSWITH %@", "Reg"))
+        
+        // 6. Predicate where label ends a specific substring "Character"
+        app.staticTexts.containing(NSPredicate(format: "label ENDSWITH %@", "n"))
+//        app.staticTexts.containing(NSPredicate(format: "label ENDSWITH %@", "ion"))
+    }
 
     func testPredicateEx1() throws {
         let app = XCUIApplication()
@@ -55,29 +77,7 @@ final class PredicateExample: DemouiUITestBase {
         
     }
     
-    
-    func testPredicateEg2() {
-        
-        // 1. Predicate where label is equal to a string
-        app.staticTexts.containing(NSPredicate(format: "label == 'Registration'"))
-        
-        // 2. Predicate where label comtains a string
-        app.staticTexts.containing(NSPredicate(format: "label CONTAINS 'Regis'"))
-        
-        // 3. Predicate where label contains string which is case-insensitive
-        app.staticTexts.containing(NSPredicate(format: "label CONTAINS[c] 'Registra'"))
-        
-        
-        // 4. Predicate where label matches a Regex
-        app.staticTexts.containing(NSPredicate(format: "SELF MATCHES %@", "[A-Z0-9a-z]"))
-        
-        // 5. Predicate where label begins a specific substring
-        app.staticTexts.containing(NSPredicate(format: "label BEGINSWITH %@", "Reg"))
-        
-        // 6. Predicate where label ends a specific substring "Character"
-        app.staticTexts.containing(NSPredicate(format: "label ENDSWITH %@", "n"))
-//        app.staticTexts.containing(NSPredicate(format: "label ENDSWITH %@", "ion"))
-    }
+  
     
     
 }

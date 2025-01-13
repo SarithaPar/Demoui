@@ -13,13 +13,11 @@
 		F90488752B847909003EA134 /* LoginPageSteps.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90488742B847909003EA134 /* LoginPageSteps.swift */; };
 		F90488772B847917003EA134 /* UserInteraction.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90488762B847917003EA134 /* UserInteraction.swift */; };
 		F90488792B847926003EA134 /* UserRegistration.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90488782B847926003EA134 /* UserRegistration.swift */; };
-		F904887B2B849193003EA134 /* TextFieldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F904887A2B849193003EA134 /* TextFieldTests.swift */; };
 		F904887D2B849714003EA134 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F904887C2B849714003EA134 /* ImageView.swift */; };
 		F904887F2B8497E1003EA134 /* ScrollToElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = F904887E2B8497E1003EA134 /* ScrollToElement.swift */; };
 		F90488812B849A8B003EA134 /* FailingTestRetry.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90488802B849A8B003EA134 /* FailingTestRetry.swift */; };
 		F91642EB2B851A8A0010A047 /* IterateList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F91642EA2B851A8A0010A047 /* IterateList.swift */; };
 		F91642EF2B8525E70010A047 /* Photon.swift in Sources */ = {isa = PBXBuildFile; fileRef = F91642EE2B8525E70010A047 /* Photon.swift */; };
-		F91642F12B8531220010A047 /* UIElementsConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = F91642F02B8531220010A047 /* UIElementsConfig.swift */; };
 		F91642F42B853DA00010A047 /* MyContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F91642F32B853DA00010A047 /* MyContentView.swift */; };
 		F91643382B85479D0010A047 /* DropDown_11.swift in Sources */ = {isa = PBXBuildFile; fileRef = F91643372B85479D0010A047 /* DropDown_11.swift */; };
 		F916433A2B854E470010A047 /* RemoteImage_12.swift in Sources */ = {isa = PBXBuildFile; fileRef = F91643392B854E470010A047 /* RemoteImage_12.swift */; };
@@ -33,6 +31,9 @@
 		F916434C2B8555DD0010A047 /* ButtonsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = F916434B2B8555DD0010A047 /* ButtonsExample.swift */; };
 		F916434E2B8556460010A047 /* ListExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = F916434D2B8556460010A047 /* ListExample.swift */; };
 		F91643502B855E840010A047 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F916434F2B855E840010A047 /* MapView.swift */; };
+		F94612342D3476BD00A5DD1C /* JSONCodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94612332D3476BD00A5DD1C /* JSONCodable.swift */; };
+		F94612362D34775300A5DD1C /* URLSessionJSONSerialization.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94612352D34775300A5DD1C /* URLSessionJSONSerialization.swift */; };
+		F94612382D34B75100A5DD1C /* XCUIElementExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94612372D34B75100A5DD1C /* XCUIElementExtension.swift */; };
 		F94DD7D82B913C0C00EDBB57 /* StringMiniProgram.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94DD7D72B913C0C00EDBB57 /* StringMiniProgram.swift */; };
 		F94DDE5E2B846804001B75A0 /* LoginTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94DDE5D2B846804001B75A0 /* LoginTests.swift */; };
 		F94DDE602B84696E001B75A0 /* LoginPageSteps.swift in Sources */ = {isa = PBXBuildFile; fileRef = F94DDE5F2B84696E001B75A0 /* LoginPageSteps.swift */; };
@@ -132,13 +133,11 @@
 		F90488742B847909003EA134 /* LoginPageSteps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPageSteps.swift; sourceTree = "<group>"; };
 		F90488762B847917003EA134 /* UserInteraction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInteraction.swift; sourceTree = "<group>"; };
 		F90488782B847926003EA134 /* UserRegistration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserRegistration.swift; sourceTree = "<group>"; };
-		F904887A2B849193003EA134 /* TextFieldTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldTests.swift; sourceTree = "<group>"; };
 		F904887C2B849714003EA134 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 		F904887E2B8497E1003EA134 /* ScrollToElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollToElement.swift; sourceTree = "<group>"; };
 		F90488802B849A8B003EA134 /* FailingTestRetry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FailingTestRetry.swift; sourceTree = "<group>"; };
 		F91642EA2B851A8A0010A047 /* IterateList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IterateList.swift; sourceTree = "<group>"; };
 		F91642EE2B8525E70010A047 /* Photon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photon.swift; sourceTree = "<group>"; };
-		F91642F02B8531220010A047 /* UIElementsConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIElementsConfig.swift; sourceTree = "<group>"; };
 		F91642F32B853DA00010A047 /* MyContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyContentView.swift; sourceTree = "<group>"; };
 		F91643372B85479D0010A047 /* DropDown_11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropDown_11.swift; sourceTree = "<group>"; };
 		F91643392B854E470010A047 /* RemoteImage_12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteImage_12.swift; sourceTree = "<group>"; };
@@ -152,6 +151,9 @@
 		F916434B2B8555DD0010A047 /* ButtonsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsExample.swift; sourceTree = "<group>"; };
 		F916434D2B8556460010A047 /* ListExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListExample.swift; sourceTree = "<group>"; };
 		F916434F2B855E840010A047 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		F94612332D3476BD00A5DD1C /* JSONCodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONCodable.swift; sourceTree = "<group>"; };
+		F94612352D34775300A5DD1C /* URLSessionJSONSerialization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLSessionJSONSerialization.swift; sourceTree = "<group>"; };
+		F94612372D34B75100A5DD1C /* XCUIElementExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCUIElementExtension.swift; sourceTree = "<group>"; };
 		F94DD7D72B913C0C00EDBB57 /* StringMiniProgram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringMiniProgram.swift; sourceTree = "<group>"; };
 		F94DDE5D2B846804001B75A0 /* LoginTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginTests.swift; sourceTree = "<group>"; };
 		F94DDE5F2B84696E001B75A0 /* LoginPageSteps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPageSteps.swift; sourceTree = "<group>"; };
@@ -307,15 +309,6 @@
 			path = SwiftPrograms;
 			sourceTree = "<group>";
 		};
-		F91642EC2B85259A0010A047 /* UIElements */ = {
-			isa = PBXGroup;
-			children = (
-				F904887A2B849193003EA134 /* TextFieldTests.swift */,
-				F91642F02B8531220010A047 /* UIElementsConfig.swift */,
-			);
-			path = UIElements;
-			sourceTree = "<group>";
-		};
 		F91642ED2B8525B10010A047 /* Functional */ = {
 			isa = PBXGroup;
 			children = (
@@ -347,6 +340,15 @@
 			path = SP_Pages;
 			sourceTree = "<group>";
 		};
+		F94612032D3475F000A5DD1C /* MockTesting */ = {
+			isa = PBXGroup;
+			children = (
+				F94612332D3476BD00A5DD1C /* JSONCodable.swift */,
+				F94612352D34775300A5DD1C /* URLSessionJSONSerialization.swift */,
+			);
+			path = MockTesting;
+			sourceTree = "<group>";
+		};
 		F94DD7D62B913BEC00EDBB57 /* SwiftProgramming */ = {
 			isa = PBXGroup;
 			children = (
@@ -360,7 +362,6 @@
 			children = (
 				F98DDF132B8ACDD6004FB49F /* DemouiTests */,
 				F91642ED2B8525B10010A047 /* Functional */,
-				F91642EC2B85259A0010A047 /* UIElements */,
 				F94DDE5D2B846804001B75A0 /* LoginTests.swift */,
 				F979B5BB2B82B3E7007E5584 /* DemouiUITests.swift */,
 				F9FDAC982B833759000F3E86 /* LoginPageUITests.swift */,
@@ -458,11 +459,11 @@
 		F979B5BA2B82B3E7007E5584 /* DemouiUITests */ = {
 			isa = PBXGroup;
 			children = (
-				F9661A142BB350530093FE2F /* AllInOne.swift */,
 				F9B3883A2B8949F400F2CD5B /* Learning */,
 				F90488822B849A99003EA134 /* BaseClasses */,
 				F9FDAC9C2B833934000F3E86 /* TestPlans */,
 				F94DDE652B8471A1001B75A0 /* Tests */,
+				F94612032D3475F000A5DD1C /* MockTesting */,
 				F9FDAC932B832EDA000F3E86 /* Utility */,
 				F9601EF32B8594AA0069D43D /* Notes.md */,
 			);
@@ -495,8 +496,6 @@
 			isa = PBXGroup;
 			children = (
 				F98DDF142B8ACDF6004FB49F /* RegistrationPageTest.swift */,
-				F98DDF162B8AEEF4004FB49F /* WelcomePageTest.swift */,
-				F98DDF202B8BADA6004FB49F /* StepperPageTest.swift */,
 			);
 			path = DemouiTests;
 			sourceTree = "<group>";
@@ -522,7 +521,6 @@
 			children = (
 				F94DD7D62B913BEC00EDBB57 /* SwiftProgramming */,
 				F9B3883B2B894A0E00F2CD5B /* Assertion.swift */,
-				F98DDF1E2B8BAC2F004FB49F /* PredicateExample.swift */,
 				F9D451442B90286A00A8AEA5 /* AccessibillityTest.swift */,
 			);
 			path = Learning;
@@ -657,6 +655,9 @@
 		F9FDAC932B832EDA000F3E86 /* Utility */ = {
 			isa = PBXGroup;
 			children = (
+				F98DDF162B8AEEF4004FB49F /* WelcomePageTest.swift */,
+				F9661A142BB350530093FE2F /* AllInOne.swift */,
+				F98DDF1E2B8BAC2F004FB49F /* PredicateExample.swift */,
 				F9FDAC942B832EF4000F3E86 /* TextField.swift */,
 				F94DDE5F2B84696E001B75A0 /* LoginPageSteps.swift */,
 				F94DDE612B846F34001B75A0 /* UserRegistration.swift */,
@@ -668,6 +669,8 @@
 				F98DDF242B8C48D5004FB49F /* TestFailure.swift */,
 				F98DDF262B8C4A8D004FB49F /* SpringBoardFile.swift */,
 				F98DDF282B8C4D00004FB49F /* AssertionTests.swift */,
+				F98DDF202B8BADA6004FB49F /* StepperPageTest.swift */,
+				F94612372D34B75100A5DD1C /* XCUIElementExtension.swift */,
 			);
 			path = Utility;
 			sourceTree = "<group>";
@@ -919,8 +922,10 @@
 				F91642EF2B8525E70010A047 /* Photon.swift in Sources */,
 				F94DDE622B846F34001B75A0 /* UserRegistration.swift in Sources */,
 				F9D4515F2B90D8E300A8AEA5 /* LoginScreenTests.swift in Sources */,
+				F94612342D3476BD00A5DD1C /* JSONCodable.swift in Sources */,
 				F98DDF272B8C4A8D004FB49F /* SpringBoardFile.swift in Sources */,
 				F9D451532B90D69C00A8AEA5 /* Common.swift in Sources */,
+				F94612382D34B75100A5DD1C /* XCUIElementExtension.swift in Sources */,
 				F9601EF22B85933C0069D43D /* RetryTest.swift in Sources */,
 				F9FDAC992B833759000F3E86 /* LoginPageUITests.swift in Sources */,
 				F979B5BC2B82B3E7007E5584 /* DemouiUITests.swift in Sources */,
@@ -931,13 +936,12 @@
 				F98DDF212B8BADA7004FB49F /* StepperPageTest.swift in Sources */,
 				F98DDF252B8C48D5004FB49F /* TestFailure.swift in Sources */,
 				F979B5BE2B82B3E7007E5584 /* DemouiUITestsLaunchTests.swift in Sources */,
-				F904887B2B849193003EA134 /* TextFieldTests.swift in Sources */,
 				F94DDE602B84696E001B75A0 /* LoginPageSteps.swift in Sources */,
-				F91642F12B8531220010A047 /* UIElementsConfig.swift in Sources */,
 				F9D451612B90D94200A8AEA5 /* UserAccount.swift in Sources */,
 				F98DDF152B8ACDF6004FB49F /* RegistrationPageTest.swift in Sources */,
 				F98DDF1F2B8BAC2F004FB49F /* PredicateExample.swift in Sources */,
 				F9D451512B90D67D00A8AEA5 /* SPExampleBaseClass.swift in Sources */,
+				F94612362D34775300A5DD1C /* URLSessionJSONSerialization.swift in Sources */,
 				F94DD7D82B913C0C00EDBB57 /* StringMiniProgram.swift in Sources */,
 				F9601EFA2B85A66F0069D43D /* TestrailClass.swift in Sources */,
 				F98DDF192B8AEFBC004FB49F /* WelcomePage.swift in Sources */,
